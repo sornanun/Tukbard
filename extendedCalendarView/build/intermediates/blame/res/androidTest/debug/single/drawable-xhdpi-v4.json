@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\OneDrive\\Android Studio\\Tukbard\\extendedCalendarView\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\navigation_next_item.png",
+        "source": "E:\\OneDrive\\Android Studio\\Tukbard\\extendedCalendarView\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\navigation_next_item.png"
+    },
+    {
+        "merged": "E:\\OneDrive\\Android Studio\\Tukbard\\extendedCalendarView\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\navigation_previous_item.png",
+        "source": "E:\\OneDrive\\Android Studio\\Tukbard\\extendedCalendarView\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\navigation_previous_item.png"
+    },
+    {
+        "merged": "E:\\OneDrive\\Android Studio\\Tukbard\\extendedCalendarView\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\day_bg.9.png",
+        "source": "E:\\OneDrive\\Android Studio\\Tukbard\\extendedCalendarView\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\day_bg.9.png"
+    }
+]
