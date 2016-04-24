@@ -1,11 +1,11 @@
 [
     {
-        "merged": "E:\\OneDrive\\Android Studio\\Tukbard\\extendedCalendarView\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\date_number_background.xml",
-        "source": "E:\\OneDrive\\Android Studio\\Tukbard\\extendedCalendarView\\build\\intermediates\\bundles\\debug\\res\\drawable\\date_number_background.xml"
-    },
-    {
         "merged": "E:\\OneDrive\\Android Studio\\Tukbard\\extendedCalendarView\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\normal_day.xml",
         "source": "E:\\OneDrive\\Android Studio\\Tukbard\\extendedCalendarView\\build\\intermediates\\bundles\\debug\\res\\drawable\\normal_day.xml"
+    },
+    {
+        "merged": "E:\\OneDrive\\Android Studio\\Tukbard\\extendedCalendarView\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\date_number_background.xml",
+        "source": "E:\\OneDrive\\Android Studio\\Tukbard\\extendedCalendarView\\build\\intermediates\\bundles\\debug\\res\\drawable\\date_number_background.xml"
     },
     {
         "merged": "E:\\OneDrive\\Android Studio\\Tukbard\\extendedCalendarView\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\day_selected.xml",

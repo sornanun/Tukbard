@@ -1,3 +1,3 @@
-include ':app', ':ripple', ':spots-dialog-master', ':AndroidViewAnimations'
+include ':app', ':ripple', ':spots-dialog-master'
 include ':extendedCalendarView'
 include ':ViewPagerIndicator'

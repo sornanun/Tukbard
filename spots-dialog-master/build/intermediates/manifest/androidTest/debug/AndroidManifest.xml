@@ -3,7 +3,7 @@
     package="dmax.dialog.test" >
 
     <uses-sdk
-        android:minSdkVersion="19"
+        android:minSdkVersion="17"
         android:targetSdkVersion="23" />
 
     <instrumentation
